@@ -1,5 +1,4 @@
 <!-- http://localhost/15g/login.php 
-https://192.168.1.1/cgi-bin/login.asp
 -->
 
 <!DOCTYPE html>
@@ -7,7 +6,6 @@ https://192.168.1.1/cgi-bin/login.asp
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <title>Hot summer project</title>
     <link rel="stylesheet" href="../15G/summer.css">
 
